@@ -21,3 +21,6 @@ Follow best practices and write semantic HTML
 Make something unique
 Make a :hover effect, or use animation
 
+
+## Preview
+![Level-Card Preview](https://github.com/John-CFO/uiverse-level_up-card/blob/master/notification-card.gif?raw=true)
